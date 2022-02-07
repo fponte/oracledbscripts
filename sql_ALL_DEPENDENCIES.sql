@@ -1,5 +1,5 @@
 /*
-This is a public view on Oracle database.
+This is a public view in Oracle database.
 Shows the depencies between objects within a schema
 */
 set define off;
